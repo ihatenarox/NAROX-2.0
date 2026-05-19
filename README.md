@@ -8,21 +8,6 @@ Modern Discord.js Bot with customizable systems, moderation tools, anime command
 
 # Features
 
-- anime <name> → Display anime information
-- avatar → Display user avatar
-- bot → Display bot information
-- ping → Display bot latency
-- roles → Display server roles
-- server → Display server information
-- spotify → Show Spotify activity
-- user → Advanced user information
-- moderation system
-- customizable embeds
-- multi-language support
-- Discord Rich Presence support
-- activity tracking
-- voice systems
-
 ---
 
 # Requirements
